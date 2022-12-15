@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chih Wei, Hsu</h1>
 <h3 align="center">A passionate android developer from Taiwan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chih-hsu" alt="chih-hsu" /></a> </p>
-
 - 🔭 I’m currently working on [Atto](https://github.com/Chih-Hsu/Atto)
 
 - 🌱 I’m currently learning **android development skill**
